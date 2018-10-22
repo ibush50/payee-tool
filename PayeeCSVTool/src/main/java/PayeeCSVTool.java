@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class PayeeCSVMaker {
+public class PayeeCSVTool {
 
 
     public static void main(String[] args) throws IOException {
@@ -27,6 +27,7 @@ public class PayeeCSVMaker {
         String ssn = "123456789";
         Random rand = new Random();
         Scanner scanner = new Scanner(System.in);
+        
 
 
 
